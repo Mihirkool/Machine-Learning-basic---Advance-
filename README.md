@@ -69,9 +69,10 @@ It is used across all experiments for consistency and comparative understanding 
 📁 MACHINE-LEARNING-BASIC---ADVANCE
 
 ├── Data/
-│ └── weatherHistory (1).csv
-├── Bayesian.ipynb
-├── K_mean.ipynb
+
+│ └── weatherHistory (1).csv    
+├── Bayesian.ipynb 
+├── K_mean.ipynb  
 ├── Kernel.ipynb
 ├── M_linear.ipynb
 ├── M_logistic.ipynb
