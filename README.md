@@ -67,30 +67,20 @@ It is used across all experiments for consistency and comparative understanding 
 
 ## 📂 Repository Structure
 
-📁 fundamentals-of-ml/
-├── Dataset/
-│ └── Weather_Prediction_Data.csv
-├── Linear_Regression/
-│ ├── Simple_Linear_Regression.ipynb
-│ └── Multivariate_Linear_Regression.ipynb
-├── Logistic_Regression/
-│ ├── Simple_Logistic_Regression.ipynb
-│ └── Multivariate_Logistic_Regression.ipynb
-├── KMeans/
-│ └── KMeans_Clustering.ipynb
-├── SVM/
-│ └── Support_Vector_Machine.ipynb
-├── Bayesian/
-│ └── Naive_Bayes_Classifier.ipynb
-├── Decision_Tree/
-│ ├── Decision_Tree.ipynb
-│ └── Pruning.ipynb
-├── Neural_Networks/
-│ ├── MLP.ipynb
-│ └── RBFNN.ipynb
-├── Kernel_Methods/
-│ └── Kernel_Functions.ipynb
-└── README.md
+📁 MACHINE-LEARNING-BASIC---ADVANCE
+├── Data/
+│ └── weatherHistory (1).csv
+├── Bayesian.ipynb
+├── K_mean.ipynb
+├── Kernel.ipynb
+├── M_linear.ipynb
+├── M_logistic.ipynb
+├── Multilayer perceptron.ipynb
+├── pruning.ipynb
+├── RBFNN.ipynb
+├── README.md
+├── S_logistic.ipynb
+└── S-Linear.ipynb
 
 
 ---
