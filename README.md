@@ -52,6 +52,7 @@ The dataset contains various meteorological attributes such as:
 
 It is used across all experiments for consistency and comparative understanding of different algorithms.
 
+**Dataset:** [Weather Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/muthuj7/weather-dataset)
 ---
 
 ## 🛠️ Tools & Libraries Used
