@@ -64,7 +64,6 @@ It is used across all experiments for consistency and comparative understanding 
 - TensorFlow / Keras  
 
 ---
-
 ## 📂 Repository Structure
 
 📁 MACHINE-LEARNING-BASIC---ADVANCE
@@ -81,7 +80,6 @@ It is used across all experiments for consistency and comparative understanding 
 ├── README.md
 ├── S_logistic.ipynb
 └── S-Linear.ipynb
-
 
 ---
 
